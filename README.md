@@ -6,11 +6,10 @@ This repository is for practicing git and github, making PRs and learning much.
 - Your file name should be format with `.txt` extention.
 - Your file will include following parameters👇
 ```
-- Your name
-- Your class and Branch
-- Your Division 
-- Your 2 digit Roll no.
-```
+- ATHARAV BHAGWAN GAJBHARE
+- TE A2 MECHANICAL ENGINNEERING
+- A 
+- 20127
 ## Example:
 ```
 Omkar Kulkarni
